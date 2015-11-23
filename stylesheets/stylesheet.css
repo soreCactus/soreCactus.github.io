@@ -268,13 +268,13 @@ Full-Width Styles
   position: relative;
   max-width: 640px;
   padding: 20px 10px;
-}
-
-.notsidebar {
-  margin:0 auto;
+  margin: 0 auto;
 }
 
 .sidebar {
+  position: relative;
+  max-width: 200px;
+  padding: 20px 10px;
   margin: 0 0;
 }
 
