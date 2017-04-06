@@ -1,3 +1,5 @@
+/* @pjs preload="file1.png","file2.png","file3.jgp"; */
+
 PImage img;
 int smallPoint, largePoint, x, y, count;
 float rand;
